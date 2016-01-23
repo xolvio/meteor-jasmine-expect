@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "xolvio-jasmine-expect": {
+      "version": "1.0.0",
+      "dependencies": {
+        "jasmine-core": {
+          "version": "2.4.1"
+        }
+      }
+    }
+  }
+}
